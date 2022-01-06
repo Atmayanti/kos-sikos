@@ -1,0 +1,78 @@
+
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 3;
+        }
+
+        .nav-link:hover {
+            border-bottom: 3px solid green;
+        }
+
+        .pictpromo {
+            border-radius: 5px;
+        }
+
+        .linkpromo {
+            color: black;
+        }
+
+        .linkpromo:hover {
+            text-decoration: none;
+            color: black;
+        }
+
+        #kospromo .col-3 {
+            border-radius: 5px;
+            padding-top: 10px;
+        }
+
+        #kospromo .col-3:hover {
+            background-color: rgba(2, 177, 2, 0.5);
+        }
+
+        .pictrec {
+            border-radius: 5px;
+        }
+
+        .linkrec {
+            color: black;
+        }
+
+        .linkrec:hover {
+            text-decoration: none;
+            color: black;
+        }
+
+        #kosrec .col-3 {
+            border-radius: 5px;
+            padding-top: 10px;
+        }
+
+        #kosrec .col-3:hover {
+            background-color: rgba(2, 177, 2, 0.5);
+        }
+
+        .kontak {
+            font-family: verdana;
+            font-size: 14px;
+            color: black;
+        }
+
+        .kontak:hover {
+            text-decoration: none;
+        }
+
+        .kebijakan {
+            color: black;
+        }
+
+        .kebijakan:hover {
+            text-decoration: none;
+        }
+
+        .garis {
+            color: lightgray;
+            width: 85%;
+        }
